@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal-profile.svg" alt="Doğukan Sağlık — ASCII terminal profile" width="100%">
+  <img src="assets/terminal-profile-v2.png" alt="Doğukan Sağlık — ASCII terminal profile" width="100%">
 </p>
 
 <p align="center">
