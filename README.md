@@ -21,12 +21,6 @@ Most of my current work uses **Go and Python**, with **Kubernetes, Linux, and Do
 | **[TunnelScope](https://github.com/lazypanic999/tunnelscope)** | Packet-size and MTU diagnostics with paired sender/receiver observations and offline HTML reports. | Python · Linux · Networking |
 | **[5G Kubernetes Lab](https://github.com/lazypanic999/open5gs-ueransim-kubernetes)** | A reproducible Open5GS + UERANSIM setup with deployment scripts, verification steps, and troubleshooting notes. | Kubernetes · Helm · Shell |
 
-### A look at CorePulse
-
-[![CorePulse dashboard showing the 5G lab service path](https://raw.githubusercontent.com/lazypanic999/CorePulse/main/assets/dashboard-verified-lab.jpg)](https://github.com/lazypanic999/CorePulse)
-
-The lab tracks workload readiness alongside actual packet reachability. The project is in early development; offline model experiments are separate from live service checks.
-
 ## Open source
 
 [NATS Python client · PR #1098](https://github.com/nats-io/nats.py/pull/1098) — preserved stream alternate location metadata across both JetStream APIs and added regression tests. Reviewed and merged on November 14, 2026.
