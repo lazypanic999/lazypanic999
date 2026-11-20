@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Doğukan Sağlık — Cloud infrastructure, networking and developer tools" width="100%">
+  <img src="assets/terminal-profile.svg" alt="Doğukan Sağlık — ASCII terminal profile" width="100%">
 </p>
 
 <p align="center">
@@ -29,15 +29,7 @@ The lab tracks workload readiness alongside actual packet reachability. The proj
 
 ## Open source
 
-### NATS · CNCF graduated project
-
-Contributed to the [NATS Python client](https://github.com/nats-io/nats.py) by preserving stream alternate location metadata across both JetStream APIs.
-
-- Added typed alternate-location handling while preserving response order and optional values.
-- Added regression tests for populated, missing, null, and empty responses, plus parser behavior.
-- Reviewed, approved, and **merged on November 14, 2026**.
-
-**[Read the merged contribution → PR #1098](https://github.com/nats-io/nats.py/pull/1098)**
+[NATS Python client · PR #1098](https://github.com/nats-io/nats.py/pull/1098) — preserved stream alternate location metadata across both JetStream APIs and added regression tests. Reviewed and merged on November 14, 2026.
 
 ## Tools I use
 
