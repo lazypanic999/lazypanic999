@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Doğukan Sağlık — Cloud infrastructure, networking and developer tools">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1424"/><stop offset="1" stop-color="#142b3e"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#89b4ca" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="58" width="36" height="4" rx="2" fill="#5eead4"/>
+  <text x="56" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#5eead4">LAZYPANIC999 / ENGINEERING</text>
+  <text x="52" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" fill="#f1f5f9">Doğukan Sağlık</text>
+  <text x="56" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b5c7d9">Cloud infrastructure, networking &amp; developer tools</text>
+  <text x="56" y="252" font-family="Consolas,monospace" font-size="14" fill="#7f9bb5">GO / PYTHON / KUBERNETES</text>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".3" stroke-width="2">
+    <path d="M850 88L1022 70L1106 163L1010 245L850 210L922 152Z M850 88L850 210 M922 152L1022 70 M922 152L1106 163 M922 152L1010 245"/>
+  </g>
+  <g fill="#142b3e" stroke="#5eead4" stroke-width="2">
+    <circle cx="850" cy="88" r="7"/><circle cx="1022" cy="70" r="7"/><circle cx="1106" cy="163" r="7"/><circle cx="1010" cy="245" r="7"/><circle cx="850" cy="210" r="7"/>
+    <circle cx="922" cy="152" r="15"/>
+  </g>
+  <circle cx="922" cy="152" r="5" fill="#5eead4"/>
+</svg>
